@@ -1,0 +1,1 @@
+{"version":3,"file":"VolumeCalculator.js","sourceRoot":"","sources":["../VolumeCalculator.ts"],"names":[],"mappings":";;;;;AAAA,sEAA8C;AAE9C,MAAM,gBAAiB,SAAQ,wBAAc;IAC3C,SAAS,CAAC,MAAM,GAAG,EAAE;QACnB,KAAK,CAAC,SAAS,CAAC,MAAM,CAAC,CAAA;IACzB,CAAC;IAED,GAAG;QACD,OAAO;IACT,CAAC;CACF"}
